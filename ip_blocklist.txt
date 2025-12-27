@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: ColdBOFH's IP Block List
+! Expires: 7 Days
+! Description: Undesired IP address connections
+! Homepage: https://github.com/ColdBOFH/blocklists
+! License: https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
+! Version: 20251226
+
+47.100.235.236
