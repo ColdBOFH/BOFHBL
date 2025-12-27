@@ -3,6 +3,7 @@
 ! Expires: 7 Days
 ! Description: Websites that annoy me for various reasons. Usually weird connections observed in my firewall.
 ! Homepage: https://github.com/ColdBOFH/blocklists
+! Download Location: https://raw.githubusercontent.com/ColdBOFH/blocklists/main/url_blocklist.txt
 ! License: https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
 ! Version: 20251219
 
